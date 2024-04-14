@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.upper{
+    margin:40px;
+    background-color: red;
+}
+.trending_shoes{
+
+    background-color: #A0A0A0;
+    display: flex;
+    justify-content: space-around;
+}
+.trending_shoes .product{
+    background-color: #606060;
+}
+ .trending_shoes .product img{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.trending_shoes .product h4{
+    text-align: center;
+}
+    
+    
+    
+    
+
+
+

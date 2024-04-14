@@ -1,0 +1,18 @@
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+ background-color: #E5E5E5;;
+}
+footer{
+
+    width: 100vw;
+    height: 100px;
+    background:linear-gradient(to right,#424242,#242424,#050505);
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+}
